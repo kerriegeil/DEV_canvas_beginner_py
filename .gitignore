@@ -1,0 +1,7 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+# Common Python artifacts
+__pycache__/
+*.pyc
+*.pyo
