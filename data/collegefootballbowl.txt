@@ -1,0 +1,21 @@
+Source of Dataset
+
+	https://www.kaggle.com/datasets/mattop/college-football-bowl-games-1902-2022
+	
+Retrieved: August 28, 2022
+
+Tabular data includes:
+
+    year: Year of game.
+    date: Date of game.
+    day: Day of the week.
+    winner_tie: Winner of game/tied.
+    winner_rank: Rank of winning team.
+    winner_points: Total points scored by winning team.
+    loser_tie: Loser of game/tied.
+    loser_rank: Rank of losing team.
+    loser_points: Total points scored by losing team.
+    attendance: Total number of people at bowl game
+    mvp: Most valuable player, position, team, name
+    sponsor: Sponsor of game.
+    bowl_name: Name of bowl game.
