@@ -1,0 +1,10 @@
+date,city,temperature_f,precipitation_cm,windspeed_knots,weather,IsRainy
+2024-01-01,New York,30.0,0.0,10.0,Clear,False
+2024-01-01,Los Angeles,65.0,0.0,5.0,Clear,False
+2024-01-01,Chicago,25.0,0.1,15.0,Snow,True
+2024-01-02,New York,28.0,0.2,8.0,Rain,True
+2024-01-02,Los Angeles,62.0,0.0,6.0,Clear,False
+2024-01-02,Chicago,22.0,0.05,12.0,Snow,True
+2024-01-03,New York,,0.0,,Clear,False
+2024-01-03,Los Angeles,66.0,0.1,5.0,Clear,False
+2024-01-03,Chicago,24.0,0.2,14.0,Snow,True

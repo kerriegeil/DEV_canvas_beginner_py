@@ -1,0 +1,11 @@
+
+date,city,temperature_f,precipitation_cm,windspeed_knots,weather
+2024-01-01,New York,30,0,10,Clear
+2024-01-02,New York,28,0.2,8,Rain
+2024-01-03,New York,,0,Clear,Clear
+2024-01-01,LosAngeles,65,0,5,Clear
+2024-01-02,Los Angeles,62,0,6,Clear
+2024-01-03,Los Angeles,66,0.1,5,Clear
+2024-01-01,Chicago,25,0.1,15,Snow
+2024-01-02,Chicago,22,0.05,12,Snow
+2024-01-03,Chicago,24,0.2,14,Snow
