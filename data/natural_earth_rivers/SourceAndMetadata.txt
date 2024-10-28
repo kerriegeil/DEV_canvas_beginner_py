@@ -1,0 +1,6 @@
+https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/
+
+ms_clipped_major_rivers.shp is created from the Natural Earth Rivers + Lake 
+Centerlines files ne_10m_rivers_lake_centerlines.shp & ne_10m_rivers_north_america.shp. 
+The data from those two files were clipped to min/max lon: -92.5,-87.5, min/max lat: 29,35.5
+and reprojected to epsg:5070.

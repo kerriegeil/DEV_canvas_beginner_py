@@ -1,0 +1,4 @@
+https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
+
+The MS_LA_AR_AL_TN_cb_2023_us_state_500km.shp file is a subset of the data file called cb_2023_us_state_500k.shp 
+from the census bureau cartographic boundary shapefiles. Reprojected to epsg:5070
