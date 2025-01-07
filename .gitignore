@@ -1,7 +1,18 @@
 # Jupyter Notebook specific
 .ipynb_checkpoints/
+*.DS_Store
 
 # Common Python artifacts
 __pycache__/
 *.pyc
 *.pyo
+
+# Data
+data/will_be_deleted*
+data/state_boundaries/cb_*
+data/natural_earth_rivers/ne_*
+data/EPA_superfund_boundaries/NPL_*
+
+# root temporary
+will_be_deleted*
+
