@@ -16,3 +16,10 @@ data/EPA_superfund_boundaries/NPL_*
 # root temporary
 will_be_deleted*
 
+# output files
+nino.npy
+nino34data.npz
+np_practice_nino34.csv
+random_numbers.npy
+year.npy
+weather_kerrie.csv
