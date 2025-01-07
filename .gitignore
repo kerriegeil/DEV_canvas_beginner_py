@@ -7,14 +7,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Data
-data/will_be_deleted*
-data/state_boundaries/cb_*
-data/natural_earth_rivers/ne_*
-data/EPA_superfund_boundaries/NPL_*
-
-# root temporary
-will_be_deleted*
 
 # output files
 nino.npy
@@ -22,4 +14,4 @@ nino34data.npz
 np_practice_nino34.csv
 random_numbers.npy
 year.npy
-weather_kerrie.csv
+weather_*.csv
