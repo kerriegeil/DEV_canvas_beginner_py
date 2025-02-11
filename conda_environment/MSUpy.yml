@@ -1,0 +1,22 @@
+name: MSUpy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy=0.24.0
+  - gdal=3.10.1
+  - geopandas=1.0.1
+  - glob2
+  - ipykernel
+  - matplotlib=3.10.0
+  - netcdf4=1.7.2
+  - numpy=2.2.2
+  - openpyxl=3.1.5
+  - pandas=2.2.3
+  - proj=9.5.1
+  - pyogrio=0.10.0
+  - python=3.13.1
+  - scikit-learn=1.6.1
+  - scipy=1.15.1
+  - shapely=2.0.7
+  - xarray=2025.1.2
