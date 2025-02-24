@@ -1,1 +1,19 @@
+Data accessed in Oct 2024 from data.gov at 
 https://catalog.data.gov/dataset/npl-superfund-site-boundaries-epa9
+
+The following metadata was obtained from Appendix 5 of a report from the EPA Office of the Inspector General (OIG) 
+https://www.epa.gov/sites/default/files/2015-12/documents/cerlcis.pdf
+
+NPL Status Code Definitions
+The NPL status code identifies a site’s status with respect to EPA’s National Priorities List.
+Every active and archived site is assigned an NPL status code. The options available for this field
+are:
+A - Site is Part of NPL Site
+D - Deleted from the Final NPL
+F - Currently on the Final NPL
+N - Not on the NPL
+O - Not a Valid Site or Incident
+P - Proposed for NPL
+R - Removed from Proposed NPL
+S - Pre-Proposal Site
+W - Withdrawn
