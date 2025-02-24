@@ -1,0 +1,25 @@
+SOURCE
+
+The data in centers_of_population_by_county.txt was obtained online from 
+the US Census Bureau on 2025 FEB 20 at 
+https://www.census.gov/geographies/reference-files/time-series/geo/centers-population.html
+
+
+DESCRIPTION
+
+State/state equivalent entity-based text files containing the mean centers of 
+population for each county/county equivalent entity within a state/state equivalent 
+entity for the 2020 Census.
+
+
+DATA DICTIONARY
+
+The record layout is:
+
+STATEFP:  2-character state FIPS code
+COUNTYFP:  3-character county FIPS code
+COUNAME:  county name
+STNAME:  state name
+POPULATION:  2020 Census population tabulated for the county
+LATITUDE:  latitude coordinate for the center of population for the county
+LONGITUDE:  longitude coordinate for the center of population for the county
