@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - cartopy=0.24.0
+  - fsspec
   - gdal=3.10.1
   - geopandas=1.0.1
   - glob2
